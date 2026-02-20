@@ -1,0 +1,4 @@
+##fileformat=VCFv4.2
+##source=PharmaGuardTest
+#CHROM  POS        ID         REF ALT QUAL FILTER INFO                         FORMAT SAMPLE
+22      42128945   rs3892097  C   T   .    PASS   GENE=CYP2D6;STAR=*1xN;RS=rs3892097  GT     1/1

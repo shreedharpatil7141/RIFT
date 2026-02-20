@@ -1,0 +1,4 @@
+##fileformat=VCFv4.2
+##source=PharmaGuardTest
+#CHROM  POS        ID         REF ALT QUAL FILTER INFO                         FORMAT SAMPLE
+6       18139220   rs1800460  G   A   .    PASS   GENE=TPMT;STAR=*3A;RS=rs1800460  GT     1/1
